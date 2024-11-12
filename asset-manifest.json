@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Monishatr03.github.io/my-app/static/css/main.1c354363.css",
+    "main.js": "/Monishatr03.github.io/my-app/static/js/main.830c5769.js",
+    "static/js/453.ed3810f9.chunk.js": "/Monishatr03.github.io/my-app/static/js/453.ed3810f9.chunk.js",
+    "static/media/profilepic.png": "/Monishatr03.github.io/my-app/static/media/profilepic.b742917c71c0e607c22f.png",
+    "static/media/img1.jpg": "/Monishatr03.github.io/my-app/static/media/img1.46d7ea1df9580365c244.jpg",
+    "static/media/img2.jpg": "/Monishatr03.github.io/my-app/static/media/img2.f2c2405f7815aaf939e5.jpg",
+    "static/media/hero-image.png": "/Monishatr03.github.io/my-app/static/media/hero-image.18df208e0a6ab847e277.png",
+    "static/media/logo.svg": "/Monishatr03.github.io/my-app/static/media/logo.6aa6a0abc14b2cbb3a08bbc7c2d2db79.svg",
+    "index.html": "/Monishatr03.github.io/my-app/index.html",
+    "main.1c354363.css.map": "/Monishatr03.github.io/my-app/static/css/main.1c354363.css.map",
+    "main.830c5769.js.map": "/Monishatr03.github.io/my-app/static/js/main.830c5769.js.map",
+    "453.ed3810f9.chunk.js.map": "/Monishatr03.github.io/my-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c354363.css",
+    "static/js/main.830c5769.js"
+  ]
+}
